@@ -9,7 +9,7 @@ Acá ilustramos las entradas del sistema en desarrollo.
 Artista
 ^^^^^^^
 .. _referencia-a:
-.. image:: image/interfaces/registroA.png
+.. image:: image/entradas/registroA.png
  :height: 15cm
  :width: 15cm
  :scale: 100%
@@ -19,7 +19,7 @@ Artista
 Evento
 ^^^^^^
 .. _referencia-b:
-.. image:: image/interfaces/registroE.png
+.. image:: image/entradas/registroE.png
  :height: 15cm
  :width: 15cm
  :scale: 100%
@@ -29,7 +29,7 @@ Evento
 Usuario
 ^^^^^^^
 .. _referencia-c:
-.. image:: image/interfaces/registroU.png
+.. image:: image/entradas/registroU.png
  :height: 15cm
  :width: 15cm
  :scale: 100%
@@ -39,7 +39,7 @@ Usuario
 Cápsula
 ^^^^^^^
 .. _referencia-d:
-.. image:: image/interfaces/registroC.png
+.. image:: image/entradas/registroC.png
  :height: 15cm
  :width: 15cm
  :scale: 100%
